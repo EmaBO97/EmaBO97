@@ -40,4 +40,8 @@ I designed, built, and validated a novel quadrotor platform optimized for agile 
 ## 📫 Connect with me:
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/emanuelebuaodetti) 
 
-*Note: Some research repositories are private due to INRIA/CNRS confidentiality agreements. Check my [Portfolio Poster](./link-al-poster.pdf) for technical details.*
+📂 Research Documents
+Feel free to dive into the technical details of my work:
+
+- **[📄 Full Master Thesis (PDF)](https://github.com/EmaBO97/IL_TUO_REPO/blob/main/IL_TUO_FILE_TESI.pdf)**: Detailed report on mechatronic design, control theory, and experimental results.
+- **[🎨 Technical Research Poster (SVG)](https://github.com/EmaBO97/IL_TUO_REPO/blob/main/IL_TUO_FILE_POSTER.svg)**: High-level visual summary of the BumbleBee project.
