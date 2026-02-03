@@ -18,7 +18,7 @@ I designed, built, and validated a novel quadrotor platform optimized for agile 
 ### 📽️ Agile Maneuvers in telekyb3:
 | 360° Flip Maneuver | Powerloop (Forward & Backward) |
 | :---: | :---: |
-| [![Flip Demo](https://img.youtube.com/vi/INSERISCI_ID_VIDEO_1/0.jpg)](https://www.youtube.com/watch?v=INSERISCI_ID_VIDEO_1) | [![Powerloop Demo](https://img.youtube.com/vi/=QgQt_DPFcEA/0.jpg)](https://www.youtube.com/watch?v=QgQt_DPFcEA) |
+| [![Flip Demo](https://img.youtube.com/vi/Dzl_B5NKsns/0.jpg)](https://www.youtube.com/watch?v=Dzl_B5NKsns) | [![Powerloop Demo](https://img.youtube.com/vi/QgQt_DPFcEA/0.jpg)](https://www.youtube.com/watch?v=QgQt_DPFcEA) |
 *(Click images to watch the videos)*
 
 ---
