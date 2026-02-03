@@ -18,7 +18,7 @@ I designed, built, and validated a novel quadrotor platform optimized for agile 
 ### 📽️ Agile Maneuvers in telekyb3:
 | 360° Flip Maneuver | Powerloop (Forward & Backward) |
 | :---: | :---: |
-| [![Flip Demo](https://img.youtube.com/vi/INSERISCI_ID_VIDEO_1/0.jpg)](https://www.youtube.com/watch?v=INSERISCI_ID_VIDEO_1) | [![Powerloop Demo](https://img.youtube.com/vi/INSERISCI_ID_VIDEO_2/0.jpg)](https://www.youtube.com/watch?v=INSERISCI_ID_VIDEO_2) |
+| [![Flip Demo](https://img.youtube.com/vi/INSERISCI_ID_VIDEO_1/0.jpg)](https://www.youtube.com/watch?v=INSERISCI_ID_VIDEO_1) | [![Powerloop Demo](https://img.youtube.com/vi/=QgQt_DPFcEA/0.jpg)](https://www.youtube.com/watch?v=QgQt_DPFcEA) |
 *(Click images to watch the videos)*
 
 ---
@@ -39,6 +39,5 @@ I designed, built, and validated a novel quadrotor platform optimized for agile 
 
 ## 📫 Connect with me:
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/emanuelebuaodetti) 
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:emanuelebuaodetti@gmail.com)
 
 *Note: Some research repositories are private due to INRIA/CNRS confidentiality agreements. Check my [Portfolio Poster](./link-al-poster.pdf) for technical details.*
