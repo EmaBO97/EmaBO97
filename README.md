@@ -43,5 +43,5 @@ I designed, built, and validated a novel quadrotor platform optimized for agile 
 📂 Research Documents
 Feel free to dive into the technical details of my work:
 
-- **[📄 Full Master Thesis (PDF)](https://github.com/EmaBO97/IL_TUO_REPO/blob/main/IL_TUO_FILE_TESI.pdf)**: Detailed report on mechatronic design, control theory, and experimental results.
-- **[🎨 Technical Research Poster (SVG)](https://github.com/EmaBO97/IL_TUO_REPO/blob/main/IL_TUO_FILE_POSTER.svg)**: High-level visual summary of the BumbleBee project.
+- **[📄 Full Master Thesis (PDF)](https://github.com/EmaBO97/Master-Thesis/blob/main/Bua_Odetti_Master_Thesis_2025.pdf)**: Detailed report on mechatronic design, control theory, and experimental results.
+- **[🎨 Technical Research Poster (PDF)](https://github.com/EmaBO97/Master-Thesis/blob/main/Project_Poster.pdf)**: High-level visual summary of the BumbleBee project.
